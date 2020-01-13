@@ -1,11 +1,11 @@
 {
-  "Dessert": [
+  "square": [
     {
       "id": 1,
       "title": "Martabak Mini",
       "subjudul":"Ibu Mila",
       "gambar":"https://cdn-brilio-net.akamaized.net/news/2019/11/21/174414/1130656-resep-kue-untuk-dijual-di-warung-laris-manis.jpg",
-      "kategori":"Dessert",
+      "kategori":"square",
       "bahan":[
         "- 350 gram tepung terigu",
         "- 2 sdm susu bubuk atau susu kental manis",
@@ -24,7 +24,7 @@
       "title": "Cheese Cake Oreo",
       "subjudul":"Chef Marinka",
       "gambar":"https://cdn-brilio-net.akamaized.net/news/2019/11/21/174414/1130668-resep-kue-untuk-dijual-di-warung-laris-manis.jpg",
-      "kategori":"Dessert",
+      "kategori":"square",
       "bahan":[
         "- 1 bungkus oreo cream putih, pisahkan biskuit dgn creamnya. Biskuitnya haluskan",
         "- Keju parut 80 gram. Bagi dengan perbandingan, 40 gram untuk cream, 40 gram utk topping",
@@ -39,13 +39,13 @@
         ]
     }
   ],
-  "Daily": [
+  "pashmina": [
     {
       "id": 1,
       "title": "Sup Buntut.",
       "subjudul":"Ibu Mega",
       "gambar":"https://sifu.unileversolutions.com/image/id-ID/recipe-topvisual/2/1260-709/sop-buntut-50406367.jpg"",
-      "kategori":"Daily",
+      "kategori":"pashmina",
       "bahan":[
         "- 1 buntut sapi",
         "- 3 buah wortel potong sesuai selera",
@@ -64,7 +64,7 @@
       "title": "Tongseng ayam",
       "subjudul":"Chef Renata",
       "gambar":"https://cdn-brilio-net.akamaized.net/news/2020/01/06/176679/1153029-1000xauto-13-resep-makanan-berkuah.jpg",
-      "kategori":"Daily",
+      "kategori":"pashmina",
       "bahan":[
         "- 500 gr daging ayam potong sesuai selera",
         "- Kol secukupnya",
@@ -79,13 +79,13 @@
         ]
     }
   ],
-  "Vegetarian": [
+  "turban": [
     {
       "id": 1,
       "title": "Stik buncis.",
       "subjudul":"Juna",
       "gambar":"https://cdn-brilio-net.akamaized.net/news/2020/01/09/176853/1154847-12-resep-camilan-dari-sayuran.jpg",
-      "kategori":"Vegetarian",
+      "kategori":"turban",
       "bahan":[
         "- Buncis segar secukupnya",
         "- 1 gelas tepung terigu",
@@ -104,7 +104,7 @@
       "title": "Jamur crispy.",
       "subjudul":"Chef Arnold",
       "gambar":"https://cdn-brilio-net.akamaized.net/news/2020/01/09/176853/1154853-1000xauto-12-resep-camilan-dari-sayuran.jpg",
-      "kategori":"Vegetarian",
+      "kategori":"turban",
       "bahan":[
         "- 100 gr tepung terigu serbaguna",
         "- 1 sdm tepung sagu",
